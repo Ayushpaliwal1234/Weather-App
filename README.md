@@ -1,0 +1,1 @@
+A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fetches real-time weather data from a public Weather API (like OpenWeatherMap) and displays information such as temperature, weather conditions, humidity, and wind speed based on the user's input location.
